@@ -31,6 +31,12 @@
 * Some new features aimed at simplifying asynchronous debugging and working across threads that will be particularly handy as the web goes multithreaded in 2018. This is super awesome :)
 * Here's a [Talk Link](https://www.youtube.com/watch?v=mfuE53x4b3k) from Google I0 2018.
 
+### Building a seamless web
+
+* As a web developer we often aim on having high perfromance. Checkout the new APIs and development patterns coming to the web. This also helps you give better user experience.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=Wi_PhaFdjlo) from Google I0 2018.
+
 
 
 
