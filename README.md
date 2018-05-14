@@ -25,6 +25,13 @@
 * Here's a [Talk Link](https://www.youtube.com/watch?v=Mv-l3-tJgGk) from Google I0 2018.
 
 
+### What's new in Chrome DevTools
+
+* As a web developer we spend almost half the time on chrome dev tools. Checkout all the new features in Chrome Dev Tools.
+* Some new features aimed at simplifying asynchronous debugging and working across threads that will be particularly handy as the web goes multithreaded in 2018. This is super awesome :)
+* Here's a [Talk Link](https://www.youtube.com/watch?v=mfuE53x4b3k) from Google I0 2018.
+
+
 
 
 
