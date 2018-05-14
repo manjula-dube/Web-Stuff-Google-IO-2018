@@ -44,7 +44,11 @@
 * You'll also get insights on how the Workbox project provides developers with an easy path towards using the web platform features that provide the foundation for these architectures.
 * Here's a [Talk Link](https://www.youtube.com/watch?v=X6yof_vIQnk) from Google I0 2018.
 
-
+### Firebase ML Kit (Beta)
+* Google brought the whole machine learning power into firebase as ML Kit sdk for Android & IOS. Firebase itself being known for its ease of usage , ML kit will for sure tag along with that.
+* It has APIs that allow you to recognize text, faces, scan barcodes, label images and name landmarks along with all these you can run your own Tensorflow Lite models using ML kit by hosting your own models on firebase and using ML kit sdk to interact with it on your apps.
+* ML Kit docs [Docs Link](https://firebase.google.com/docs/ml-kit/)
+* Here's a [Talk Link](https://www.youtube.com/watch?v=Z-dqGRSsaBs) from Google IO 2018
 
 
 
