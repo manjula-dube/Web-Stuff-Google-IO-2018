@@ -2,7 +2,7 @@
 
 #### Short summary on the web sessions at Google IO 2018
 
-### Starter kit for PWA ###
+### PWA starter kit: build fast, scalable, modern apps with Web Components ###
 
 * Since PWA is killing the native world the first talk I liked the most was "Starter kit for PWA". If you are newbie just getting to build your first PWA app you should definitely try this.
 
