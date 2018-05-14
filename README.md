@@ -37,6 +37,13 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=Wi_PhaFdjlo) from Google I0 2018.
 
+### Beyond single-page apps: alternative architectures for your PWA
+
+* Want to understand What PWA's are? and if its the right use case for your app. Check this talk.
+* Deep-dive into alternative architectures for content-focused PWAs.
+* You'll also get insights on how the Workbox project provides developers with an easy path towards using the web platform features that provide the foundation for these architectures.
+* Here's a [Talk Link](https://www.youtube.com/watch?v=X6yof_vIQnk) from Google I0 2018.
+
 
 
 
