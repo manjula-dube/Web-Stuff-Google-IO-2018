@@ -1,6 +1,6 @@
 # All Cool Stuff out this year at Google IO 2018.
 
-#### Short summary on the web sessions at Google IO 2018
+##### Short summary on the web sessions this year at Google IO 2018
 
 ### PWA starter kit: build fast, scalable, modern apps with Web Components ###
 
