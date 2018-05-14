@@ -1,4 +1,4 @@
-# New Web Releases this year at Google IO 2018.
+# All Cool Stuff out this year at Google IO 2018.
 
 #### Short summary on the web sessions at Google IO 2018
 
