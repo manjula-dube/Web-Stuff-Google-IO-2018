@@ -18,6 +18,12 @@
 * Here's the link to new [Polymer 3.0](https://www.polymer-project.org/blog/2018-01-18-polymer-3-new-preview)
 * Here's a [Talk Link](https://www.youtube.com/watch?v=7CUO7PyD5zA) from Google I0 2018.
 
+### Web performance made easy
+
+* In this talk, learn how to find and fix the most common web performance bottlenecks to improve your UX by using tools like Lighthouse and DevTools, and discover the latest browser APIs (e.g. Service Workers, Async Images, Fetch Priorities) to get more control over your loading experience.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=Mv-l3-tJgGk) from Google I0 2018.
+
 
 
 
