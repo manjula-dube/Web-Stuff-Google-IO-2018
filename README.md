@@ -75,4 +75,7 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=Ay-mdLMDtbs) from Google IO 2018
 
+### Build the future of the web with modern JavaScript
+* This presentation gives an overview of cutting-edge JavaScript development techniques to build modern web and Node.js apps. Discover which features to expect in Chrome and Node.js soon, how the V8 engine optimizes for them, and how to improve real-world performance and stability on the Web and in Node.js.
 
+* Here's a [Talk Link](https://www.youtube.com/watch?v=mIWCLOftfRw) from Google IO 2018
