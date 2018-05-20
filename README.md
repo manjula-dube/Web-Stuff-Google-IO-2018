@@ -95,3 +95,8 @@ Take a look at First Input Delay (FID) docs + polyfill
 * Here's a [Talk Link](https://www.youtube.com/watch?v=UvK9zAsSM8Q) from Google IO 2018
 
 
+### TensorFlow for JavaScript
+* TensorFlow has been extended to simplify model training and deployment using the JavaScript language. This session will offer a detailed description of how to use JavaScript to train and deploy your models.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=OmofOvMApTU) from Google IO 2018
+
