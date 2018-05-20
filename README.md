@@ -65,4 +65,9 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=QCoQs9NO9q0) from Google IO 2018
 
+### What's new in Angular
+* Angular has a flag that will cut hundreds of kilobytes off of your bundles, improve mobile experiences, and allow you to dynamically create components on the fly. Learn about these changes and what they mean for your applications.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=jnp_ny4SOQE) from Google IO 2018
+
 
