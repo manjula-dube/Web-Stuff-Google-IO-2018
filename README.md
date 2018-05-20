@@ -60,6 +60,9 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=5azRhKsSU_M) from Google IO 2018
 
+### Build e-commerce sites for the modern web with AMP, PWA, and more
+* The modern web provides a wealth of APIs, but cool features don’t automatically translate to business success. In this session, you'll follow a customer through their online shopping journey, from product discovery to checkout, and you'll learn how to prioritize efforts to create sites that seamlessly integrate across devices and between online and bricks-and-mortar stores using AMP and the web platform.
 
+* Here's a [Talk Link](https://www.youtube.com/watch?v=QCoQs9NO9q0) from Google IO 2018
 
 
