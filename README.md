@@ -92,6 +92,6 @@ Take a look at First Input Delay (FID) docs + polyfill
 * Look into Lighthouse API and fill our interest form → https://bit.ly/lighthouse-api-interes...
 * Baseline your performance stats via Chrome UX Report → https://bit.ly/chrome-ux-report
 
-* Here's a [Talk Link](https://www.youtube.com/watch?v=mIWCLOftfRw) from Google IO 2018
+* Here's a [Talk Link](https://www.youtube.com/watch?v=UvK9zAsSM8Q) from Google IO 2018
 
 
