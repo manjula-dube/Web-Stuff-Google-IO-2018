@@ -55,6 +55,11 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=BnYq7JapeDA) from Google IO 2018
 
+### Build awesome media experiences on the web
+* This talk will show you how to build stunning media experiences on the web by offering practical advice on using Shaka Player to build best-in-class experiences; taking media offline; and working with Autoplay, Media Capabilities, PIP, and Media Sessions. It'll also dive into AV1 - a state of the art video codec launched this year by the Alliance for Open Media that saves 30% bandwidth over VP9 and is open source and royalty free for anyone to use.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=5azRhKsSU_M) from Google IO 2018
+
 
 
 
