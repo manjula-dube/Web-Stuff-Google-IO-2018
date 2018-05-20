@@ -85,12 +85,12 @@
 * Google has many tools to help developers, product managers, and marketers optimize their web experience. This session will demystify performance metrics, explain what tools should be used for which usecase, and deep dive into the Lighthouse and Chrome User Experience Report tools.
 
 Take a look at First Input Delay (FID) docs + polyfill 
-→ https://bit.ly/first-input-delay-over...  
-→ https://bit.ly/first-input-delay-poly...
+* https://bit.ly/first-input-delay-over
+* https://bit.ly/first-input-delay-poly
 
-Speed tools infographic → https://g.co/dev/SpeedToolsOverview
-Look into Lighthouse API and fill our interest form → https://bit.ly/lighthouse-api-interes...
-Baseline your performance stats via Chrome UX Report → https://bit.ly/chrome-ux-report
+* Speed tools infographic → https://g.co/dev/SpeedToolsOverview
+* Look into Lighthouse API and fill our interest form → https://bit.ly/lighthouse-api-interes...
+* Baseline your performance stats via Chrome UX Report → https://bit.ly/chrome-ux-report
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=mIWCLOftfRw) from Google IO 2018
 
