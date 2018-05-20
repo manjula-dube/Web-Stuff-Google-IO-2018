@@ -50,6 +50,10 @@
 * ML Kit docs [Docs Link](https://firebase.google.com/docs/ml-kit/)
 * Here's a [Talk Link](https://www.youtube.com/watch?v=Z-dqGRSsaBs) from Google IO 2018
 
+### Build the future of the web with WebAssembly and more 
+* WebAssembly is enabling the browsers to expose lower-level primitives that can be built on by developers to create performance demanding functionality, like real time media processing, without having to wait for it to be standardized and implemented. 
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=BnYq7JapeDA) from Google IO 2018
 
 
 
