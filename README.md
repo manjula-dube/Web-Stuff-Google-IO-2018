@@ -100,3 +100,7 @@ Take a look at First Input Delay (FID) docs + polyfill
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=OmofOvMApTU) from Google IO 2018
 
+### PWAs: building bridges to mobile, desktop, and native
+* Progressive Web Apps (PWAs) enable fast, integrated, reliable, and engaging web experiences. Come and learn how browser vendors are enabling developers to use the web to build installable desktop applications and store-distributed mobile apps,as well as how Google is launching its own PWAs at scale.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=OmofOvMApTU) from Google IO 2018
