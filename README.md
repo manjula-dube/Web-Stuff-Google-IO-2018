@@ -70,4 +70,9 @@
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=jnp_ny4SOQE) from Google IO 2018
 
+### The web: state of the union 
+* From desktop to mobile, the web is in the midst of a resurgence. It's getting easier to build fast and immersive experiences that reach everyone on the web and the tools for web developers are continually becoming more powerful and diverse. This talk will highlight some of the recent transformations of the modern web, show how developers and companies are taking advantage to build best-in-class experiences that are making real business impact, and give a sneak peak into the exciting new advances coming to the platform in the near future.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=Ay-mdLMDtbs) from Google IO 2018
+
 
