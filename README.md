@@ -104,3 +104,8 @@ Take a look at First Input Delay (FID) docs + polyfill
 * Progressive Web Apps (PWAs) enable fast, integrated, reliable, and engaging web experiences. Come and learn how browser vendors are enabling developers to use the web to build installable desktop applications and store-distributed mobile apps,as well as how Google is launching its own PWAs at scale.
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=OmofOvMApTU) from Google IO 2018
+
+### Lessons from Spectre and Meltdown, and how the whole web is getting safer
+* Despite the earthquake of Spectre/Meltdown shaking-up security, there are steps that developers can take to maximize site safety. Come learn about Google's response, lessons learned, and what you can do to build secure sites for today and the future.
+
+* Here's a [Talk Link](https://www.youtube.com/watch?v=dBuykrdhK-A) from Google IO 2018
