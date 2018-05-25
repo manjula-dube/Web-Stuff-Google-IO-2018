@@ -109,3 +109,5 @@ Take a look at First Input Delay (FID) docs + polyfill
 * Despite the earthquake of Spectre/Meltdown shaking-up security, there are steps that developers can take to maximize site safety. Come learn about Google's response, lessons learned, and what you can do to build secure sites for today and the future.
 
 * Here's a [Talk Link](https://www.youtube.com/watch?v=dBuykrdhK-A) from Google IO 2018
+
+You will find all the talks [here](https://www.youtube.com/playlist?list=PLNYkxOF6rcIC4NQeXpdAy0RbOACI66Hvf)
